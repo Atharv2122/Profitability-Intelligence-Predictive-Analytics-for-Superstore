@@ -1,0 +1,5 @@
+
+matplotlib
+statsmodels
+seaborn==0.13.2
+sklearn==0.0
