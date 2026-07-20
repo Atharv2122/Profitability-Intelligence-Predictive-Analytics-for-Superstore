@@ -54,7 +54,6 @@ The analysis aims to:
 ├── 📄 README.md
 ├── 📓 Superstore_Profitability_Analysis.ipynb
 ├── 📊 Superstore.csv
-├── 📑 Big-Data-C11BD-Individual-Coursework-2.pdf
 │
 └── 📁 visualisations
     ├── category_profit.png
@@ -148,13 +147,31 @@ This created a more robust dataset for statistical and predictive modelling.
 The analysis investigated:
 
 * Profitability by product category
+  <img width="269" height="195" alt="image" src="https://github.com/user-attachments/assets/50ca5ed1-87b9-4768-8151-0bce166df632" />
+
 * Profit by state
+  <img width="389" height="239" alt="image" src="https://github.com/user-attachments/assets/b658a225-98d9-4b99-889d-3432d046956d" />
+
 * Sales by region
+  <img width="262" height="190" alt="image" src="https://github.com/user-attachments/assets/8cc7272d-3b81-45e8-82a7-19494dd109f7" />
+
 * Shipping method usage
+  <img width="277" height="190" alt="image" src="https://github.com/user-attachments/assets/c3efc0b1-ff19-4374-98ca-824dc7983e8d" />
+
 * Sales versus profit relationships
+  <img width="255" height="188" alt="image" src="https://github.com/user-attachments/assets/1902c472-c458-4df9-8935-d7874c30706a" />
+
 * Profitability trends over time
+  <img width="346" height="185" alt="image" src="https://github.com/user-attachments/assets/910695f5-8d84-4c03-920f-f57079893214" />
+
 * Correlations between key variables
+<img width="303" height="241" alt="image" src="https://github.com/user-attachments/assets/cd0070fd-b420-4d31-b85f-a98ef8c550e2" />
+
+  <img width="380" height="293" alt="image" src="https://github.com/user-attachments/assets/23f483e1-99a6-4b58-b67f-1d55fbbf97ed" />
+
 * Covariance between numerical features
+  <img width="299" height="251" alt="image" src="https://github.com/user-attachments/assets/50585ee9-7ca3-4854-aaf4-b815e9232757" />
+
 
 ## 🔎 Key EDA Insights
 
